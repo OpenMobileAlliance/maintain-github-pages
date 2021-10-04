@@ -1,0 +1,32 @@
+{
+  "name": "maintain-github-pages",
+  "version": "1.0.0",
+  "description": "Documentation for maintaining OMA github pages",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenMobileAlliance/maintain-github-pages.git"
+  },
+  "keywords": [
+    "github",
+    "pages",
+    "nuxt",
+    "nodejs",
+    "documentation"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenMobileAlliance/maintain-github-pages/issues"
+  },
+  "homepage": "https://github.com/OpenMobileAlliance/maintain-github-pages#readme",
+  "dependencies": {
+    "@nuxt/content-theme-docs": "^0.9.0",
+    "nuxt": "^2.15.8"
+  }
+}
